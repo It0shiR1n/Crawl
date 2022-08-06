@@ -1,7 +1,7 @@
 # Crawl
 One Web crawler in Python3
 
-Use Mode:<br>br>
+Use Mode:<br><br>
   -h, --help                             show this help message and exit<br>
   -u URL, --url URL                      set the URL: https://google.com, http://test.com<br>
   -r REGEX, --regex REGEX                set one personalized regex or use one predefined: link, phone, email<br>
